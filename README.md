@@ -14,3 +14,4 @@ Para darle buen uso a todo el contenido te sugiero comenzar leyendo por la sigui
 
 - Internet: [todo sobre los conocimientos básicos que necesitas aquí](https://github.com/RonaldX7/Roadmap-Backend-Developer-Java/tree/main/internet)
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-repo/blob/main/LICENSE)
