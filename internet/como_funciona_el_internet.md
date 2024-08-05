@@ -18,7 +18,7 @@ Imagina Internet como una red gigantesca de computadoras conectadas entre sí. C
 - HTTP: El protocolo utilizado para transmitir datos en la World Wide Web.
 - TCP/IP: Los protocolos fundamentales que permiten la comunicación entre dispositivos en una red.
 
-*¿Por qué esto es importante para ti como desarrollador?*
+**¿Por qué esto es importante para ti como desarrollador?**
 Comprender estos conceptos básicos te permitirá:
 - Optimizar tus sitios web: Al conocer cómo funciona el proceso de solicitud y respuesta, puedes optimizar tus páginas para que carguen más rápido.
 - Solucionar problemas: Si tu sitio web no funciona correctamente, podrás identificar y solucionar los problemas de manera más efectiva.
