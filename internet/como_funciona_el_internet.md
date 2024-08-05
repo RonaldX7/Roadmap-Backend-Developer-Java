@@ -1,7 +1,7 @@
 # ¿Como funciona el internet?
 Imagina Internet como una red gigantesca de computadoras conectadas entre sí. Cada una de estas computadoras, llamadas servidores, almacena y comparte información. Cuando tú, desde tu computadora o teléfono, ingresas una dirección web (URL) en tu navegador, estás solicitando que se te envíe la información almacenada en un servidor específico.
 
-**¿Qué es una URL?**
+# ¿Qué es una URL?#
 - Cuando escribes una dirección web como https://www.ejemplo.com en tu navegador, estás utilizando una URL (Uniform Resource Locator). Esta es como una dirección postal en Internet que señala hacia un servidor específico.
 
 **La solicitud HTTP**
