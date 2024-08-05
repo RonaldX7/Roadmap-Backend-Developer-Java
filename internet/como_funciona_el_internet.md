@@ -11,7 +11,7 @@ Imagina Internet como una red gigantesca de computadoras conectadas entre sí. C
 - El servidor recibe la solicitud, busca la página web que estás solicitando y te la envía. Esta respuesta también es una transmisión HTTP, pero esta vez incluye el código HTML de la página, junto con otros recursos como imágenes, hojas de estilo y scripts.
 - Tu navegador recibe el código HTML y lo interpreta para mostrarte la página web en una interfaz visual. Este proceso se llama renderizado.
 
-** 📋 Conceptos clave para desarrolladores web**
+**📋 Conceptos clave para desarrolladores web**
 * **HTML:** El lenguaje de marcado para crear la estructura de una página web.
 * **CSS:** Se utiliza para dar estilo y diseño a las páginas web.
 * **JavaScript:** Un lenguaje de programación que añade interactividad a las páginas web.
