@@ -19,7 +19,7 @@ Imagina Internet como una red gigantesca de computadoras conectadas entre sí. C
 - TCP/IP: Los protocolos fundamentales que permiten la comunicación entre dispositivos en una red.
 
 **¿Por qué esto es importante para ti como desarrollador?**
-* Comprender estos conceptos básicos te permitirá:
+  Comprender estos conceptos básicos te permitirá:
 - Optimizar tus sitios web: Al conocer cómo funciona el proceso de solicitud y respuesta, puedes optimizar tus páginas para que carguen más rápido.
 - Solucionar problemas: Si tu sitio web no funciona correctamente, podrás identificar y solucionar los problemas de manera más efectiva.
 - Crear aplicaciones web más complejas: Entender los fundamentos te permitirá construir aplicaciones web que interactúen con otros servicios y bases de datos.
