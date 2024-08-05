@@ -12,11 +12,11 @@ Imagina Internet como una red gigantesca de computadoras conectadas entre sí. C
 - Tu navegador recibe el código HTML y lo interpreta para mostrarte la página web en una interfaz visual. Este proceso se llama renderizado.
 
 **Conceptos clave para desarrolladores web**
-- HTML: El lenguaje de marcado para crear la estructura de una página web.
-- CSS: Se utiliza para dar estilo y diseño a las páginas web.
-- JavaScript: Un lenguaje de programación que añade interactividad a las páginas web.
-- HTTP: El protocolo utilizado para transmitir datos en la World Wide Web.
-- TCP/IP: Los protocolos fundamentales que permiten la comunicación entre dispositivos en una red.
+* **HTML:** El lenguaje de marcado para crear la estructura de una página web.
+* **CSS:** Se utiliza para dar estilo y diseño a las páginas web.
+* **JavaScript:** Un lenguaje de programación que añade interactividad a las páginas web.
+* **HTTP:** El protocolo utilizado para transmitir datos en la World Wide Web.
+* **TCP/IP:** Los protocolos fundamentales que permiten la comunicación entre dispositivos en una red.
 
 **¿Por qué esto es importante para ti como desarrollador?**
 - Comprender estos conceptos básicos te permitirá:
