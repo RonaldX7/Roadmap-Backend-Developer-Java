@@ -9,5 +9,6 @@ Todas los equipos con Internet, desde su teléfono inteligente o portátil a los
 
 * **DNS recurrente:** los clientes normalmente no realizan consultas directamente a los servicios de DNS autoritativo. En su lugar, generalmente se conectan con otro tipo de servicio de DNS conocido como solucionador o un servicio de DNS recurrente. Un servicio de DNS recurrente funciona como el conserje de un hotel: si bien no es dueño de los registros DNS, funciona como un intermediario que obtiene la información del DNS por usted. Si un DNS recurrente tiene una referencia de DNS en caché o almacenada durante un período, entonces responde la consulta de DNS mediante el suministro de la información IP o la fuente. De lo contrario, pasa la consulta a uno o más servidores de DNS autoritativo para encontrar la información.
 
-**¿Como los navegadores cargan un sitio web?**
+# ¿Como los navegadores cargan un sitio web?
+
 ![Como funciona un DNS](/img/dns-función.jpg)
