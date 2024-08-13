@@ -1,5 +1,5 @@
 # ¿Que es el protocolo HTTP?
-El protocolo HTTP (Hypertext Transfer Protocol) es un protocolo de comunicación utilizado en la web para la transferencia de datos entre un cliente (generalmente un navegador web) y un servidor. Es un protocolo basado en el modelo de petición y respuesta, donde el cliente envía una solicitud al servidor, que responde con el recurso solicitado, como una página web, imagen, o archivo.
+HTTP, que significa "Hypertext Transfer Protocol" en inglés, es un protocolo que nos permite solicitar datos y recursos, como documentos HTML. Es fundamental para cualquier intercambio de información en la Web y sigue una estructura cliente-servidor, lo que significa que la solicitud de datos es iniciada por el cliente, generalmente un navegador web. Una página web completa se forma a partir de la combinación de varios subdocumentos recibidos, como un archivo CSS para el estilo, junto con texto, imágenes, videos, scripts, entre otros.
 
 ![Como funciona el protocolo HTTP](/img/protocolo_HTTP.jpg)
 
