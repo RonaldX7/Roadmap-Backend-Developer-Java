@@ -13,3 +13,4 @@ HTTP, que significa "Hypertext Transfer Protocol" en inglés, es un protocolo qu
 
 * **Renderizado en el Cliente:** El cliente recibe la respuesta y procesa el contenido, mostrándolo al usuario, como una página web, por ejemplo.
 
+![Como está estructurado un sitio web](/img/estructura_web.jpg)
