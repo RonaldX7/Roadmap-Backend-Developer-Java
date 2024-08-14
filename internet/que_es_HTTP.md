@@ -3,7 +3,7 @@ HTTP, que significa "Hypertext Transfer Protocol" en inglés, es un protocolo qu
 
 ![Como funciona el protocolo HTTP](/img/protocolo_HTTP.jpg)
 
-**El funcionamiento de HTTP sigue estos pasos:**
+# El funcionamiento de HTTP sigue estos pasos:
 
 * **Solicitud del Cliente:** El cliente envía una solicitud HTTP al servidor. Esta solicitud incluye un método (como GET para obtener un recurso o POST para enviar datos), la URL del recurso solicitado, y posiblemente encabezados y un cuerpo con datos adicionales.
 
