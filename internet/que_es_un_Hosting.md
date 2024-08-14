@@ -1,7 +1,7 @@
 # ¿Que es un Hosting?
 Un hosting (o alojamiento web) es un servicio que permite a individuos y organizaciones hacer que sus sitios web sean accesibles a través de Internet. Cuando creas un sitio web, los archivos que lo componen (HTML, imágenes, videos, etc.) deben almacenarse en un lugar que esté conectado a Internet para que las personas puedan acceder a ellos. Ese lugar es un servidor, y el servicio que proporciona espacio en ese servidor se llama hosting.
 
-**Cómo funciona el hosting**
+# Cómo funciona el hosting
 
 * **Servidor:** Un servidor es una computadora potente que almacena los archivos de tu sitio web. Los servidores están configurados para manejar solicitudes de acceso a esos archivos y enviarlos a los navegadores web de los usuarios.
 
