@@ -17,13 +17,13 @@ Un hosting (o alojamiento web) es un servicio que permite a individuos y organiz
 
 # Tipos de hosting
 
-Hosting compartido: Varios sitios web comparten un mismo servidor y sus recursos. Es la opción más económica y común para sitios web pequeños o personales.
+* **Hosting compartido:** Varios sitios web comparten un mismo servidor y sus recursos. Es la opción más económica y común para sitios web pequeños o personales.
 
-Hosting VPS (Servidor Virtual Privado): Un servidor físico se divide en varios servidores virtuales, ofreciendo más recursos y control que un hosting compartido.
+* **Hosting VPS (Servidor Virtual Privado):** Un servidor físico se divide en varios servidores virtuales, ofreciendo más recursos y control que un hosting compartido.
 
-Hosting dedicado: Un servidor completo es dedicado a un solo sitio web. Es la opción más cara pero ofrece el mayor control y rendimiento.
+* **Hosting dedicado:** Un servidor completo es dedicado a un solo sitio web. Es la opción más cara pero ofrece el mayor control y rendimiento.
 
-Hosting en la nube: Los archivos del sitio web se alojan en varios servidores, lo que mejora la escalabilidad y la fiabilidad, ya que si un servidor falla, otro puede asumir la carga.
+* **Hosting en la nube:** Los archivos del sitio web se alojan en varios servidores, lo que mejora la escalabilidad y la fiabilidad, ya que si un servidor falla, otro puede asumir la carga.
 
 ![Tipos de Hosting](/img/tipos-de-hosting.jpg)
 
