@@ -54,6 +54,7 @@ Para registrar un dominio, debes seguir estos pasos:
 # Problemas Comunes y Buenas Prácticas
 **Ciberocupación (Cybersquatting):**
 - Es el registro de un dominio con la intención de venderlo a la marca o persona propietaria del nombre a un precio elevado.
+
 **Buenas Prácticas:**
 - Renovar dominios a tiempo.
 - Configurar SSL para seguridad.
